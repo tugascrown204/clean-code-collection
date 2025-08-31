@@ -9,7 +9,7 @@ Thank you for considering contributing to the Clean Code Collection! We apprecia
 4. Run tests to ensure your changes don't break existing functionality before creating a pull request.
 5. Ensure your code adheres to the project's formatting guidelines before pushing.
 6. Push your branch to your forked repository.
-7. Create a pull request explaining your changes.
+7. Create a pull request explaining your changes, including any relevant issue numbers or links.
 
 ## Code of Conduct
 Be respectful and constructive in your feedback and interactions.
