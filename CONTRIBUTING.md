@@ -5,7 +5,7 @@ Thank you for considering contributing to the Clean Code Collection! We apprecia
 ## How to Contribute
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with clear messages.
+3. Make your changes, update documentation if necessary, and commit them with clear messages.
 4. Push your branch to your forked repository.
 5. Create a pull request explaining your changes.
 
